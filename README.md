@@ -1,1 +1,5 @@
-# python-built-in-data-structures
+## Pyhton Built In Data Structures
+- Lists
+- Strings
+- Tupels
+- dictionaries
