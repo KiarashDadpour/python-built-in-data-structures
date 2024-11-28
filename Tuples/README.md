@@ -1,6 +1,6 @@
 # Advanced Programming: Tuples
 
-This repository contains a Jupyter Notebook designed for an in-depth exploration of tuples in Python. The content is structured as part of an **Advanced Programming** course, led by **Dr. Sadegh Eskandari**, with contributions from **Lecturer Kiarash Dadpour**.
+This repository contains a Jupyter Notebook designed for an in-depth exploration of tuples in Python. The content is structured as part of an **Advanced Programming** class.
 
 ## Overview
 
