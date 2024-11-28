@@ -21,6 +21,3 @@ The notebook consists of the following sections:
    - Using tuples as keys in dictionaries.
    - Built-in tuple methods and their applications.
 
-4. **Practical Examples**:
-   - Real-world scenarios where tuples are preferred over other data structures.
-
