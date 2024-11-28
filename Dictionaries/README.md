@@ -4,11 +4,11 @@
 This notebook focuses on **Dictionaries**, a core Python data structure used to store and manage key-value pairs. As part of the **Advanced Programming** class.
 
 ---
-### Overview
+## Overview
 
 This notebook focuses on **Dictionaries**, a core Python data structure used to store and manage key-value pairs. As part of the **Advanced Programming** course, this notebook provides a detailed exploration of dictionary functionalities, their practical applications, and theoretical concepts.
 
-### Key Concepts
+## Key Concepts
 
 - **Definition**: A Python dictionary is a mutable and unordered collection that maps unique keys to values.
 - **Core Features**:
@@ -22,7 +22,7 @@ This notebook focuses on **Dictionaries**, a core Python data structure used to 
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 1. **Introduction**:
    - What are dictionaries?
@@ -32,8 +32,5 @@ This notebook focuses on **Dictionaries**, a core Python data structure used to 
    - Checking for keys and retrieving values.
 3. **Methods and Functions**:
    - Overview of commonly used dictionary methods like `get()`, `keys()`, and `values()`.
-4. **Practical Applications**:
-   - Real-world examples, including data aggregation and lookup tables.
-5. **Exercises**:
-   - Interactive tasks to deepen understanding.
+
 
