@@ -1,6 +1,6 @@
 # Python Strings Notebook
 
-This notebook is a comprehensive guide to Python strings, covering their definitions, properties, and common operations. It is suitable for beginners and intermediate learners who want to enhance their understanding of strings in Python.
+This notebook is a comprehensive guide to Python strings, covering their definitions, properties, and common operations. It is suitable for beginners and intermediate learners who want to enhance their understanding of strings in Python. The content is structured as part of an **Advanced Programming** class.
 
 ## Contents
 
